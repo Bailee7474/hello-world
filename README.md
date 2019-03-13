@@ -1,2 +1,6 @@
-# hello-world
-只是一个储存库
+#hello-world
+
+Hi Humans!
+
+Hubit here,I like Node. js and Coffeescript (that's what I'm made of!)
+I've had tacos tacos on the moon and find them far superior to Earth tacos.
